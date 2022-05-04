@@ -1,0 +1,42 @@
+_repo: Tramping-With-A-Poet-in-the-Rockies_67960
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hill, Vernon
+    gutenberg_agent_id: '54552'
+    url: http://www.gutenberg.org/2009/agents/54552
+creator:
+  authors:
+  - agent_name: Lindsay, Vachel
+    alias: Lindsay, Nicholas Vachel
+    birthdate: 1879
+    deathdate: 1931
+    gutenberg_agent_id: '234'
+    url: http://www.gutenberg.org/2009/agents/234
+    wikipedia: https://en.wikipedia.org/wiki/Vachel_Lindsay
+  - agent_name: Graham, Stephen
+    birthdate: 1884
+    deathdate: 1975
+    gutenberg_agent_id: '4157'
+    url: http://www.gutenberg.org/2009/agents/4157
+    wikipedia: https://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
+description: ''
+gutenberg_issued: '2022-05-01'
+identifiers:
+  gutenberg: '67960'
+language: en
+pgterms:marc904: https://archive.org/details/trampingwithpoet00grah/mode/2up
+pgterms:marc905: 20201029170913graham
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by University of California libraries)
+publication_note: United States :D. Appleton-Century Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tramping With A Poet in the Rockies
+url: http://www.gutenberg.org/ebooks/67960
