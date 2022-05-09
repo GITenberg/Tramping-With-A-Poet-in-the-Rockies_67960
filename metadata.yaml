@@ -5,6 +5,9 @@ contributor:
     agent_name: Hill, Vernon
     gutenberg_agent_id: '54552'
     url: http://www.gutenberg.org/2009/agents/54552
+covers:
+- cover_type: archival
+  image_path: 67960-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Lindsay, Vachel
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4157
     wikipedia: https://en.wikipedia.org/wiki/Stephen_Graham_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67960#Tramping-With-A-Poet-in-the-Rockies
 gutenberg_issued: '2022-05-01'
 identifiers:
   gutenberg: '67960'
